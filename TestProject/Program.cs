@@ -20,7 +20,7 @@ namespace MyApplication
             string a = Convert.ToString(x);
             double f = 5.6;
             int y = (int) Math.Round(f);
-            Console.WriteLine("Nice!");
+            Console.WriteLine("Nice! Hello world!");
             Console.WriteLine(y);
         }
     }
